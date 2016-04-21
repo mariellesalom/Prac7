@@ -1,9 +1,5 @@
 Ivan Yan - kkyan4@student.monash.edu
 Nathan Colvin - njcol7@student.monash.edu
-<<<<<<< HEAD
-Thomas Mckay - tlmck5@student.monash.edu
-=======
-Thomas Luke Mckay - tlmck5@student.monash.edu.abc
->>>>>>> origin/master
+Thomas Luke Mckay - tlmck5@student.monash.edu
 Marielle Salom- mrsal7@student.monash.edu 
 
